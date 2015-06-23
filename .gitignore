@@ -31,4 +31,6 @@
 makefile
 
 # exe
-main
+ConfigFileReader/main
+mysql_login/login
+
