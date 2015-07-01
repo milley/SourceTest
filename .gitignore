@@ -33,4 +33,5 @@ makefile
 # exe
 ConfigFileReader/main
 mysql_login/login
+EncDec/main
 
